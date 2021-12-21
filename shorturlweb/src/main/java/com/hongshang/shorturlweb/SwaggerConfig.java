@@ -39,7 +39,7 @@ public class SwaggerConfig {
                         .title("红杉短地址服务API")
                         .description("红杉短地址服务API_Swagger3")
                         .version("0.0.1-SNAPSHOT")
-                        .contact(new  Contact("","",""))
+                        .contact(new Contact("","",""))
                         .license("The Apache License")
                         .licenseUrl("http://www.baidu.com")
                         .build());
